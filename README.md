@@ -6,5 +6,7 @@ I'm not afraid to make mistakes, because my desire is to learn and be better.
 I will always be open to suggestions and learning so I make available my professional email to contact.
 
 
-_ devpedro.bassis@gmail.com _
+devpedro.bassis@gmail.com 
+
+
 Therefore, in this profile will be available all my projects / codes- algorithms to serve as a sample.
